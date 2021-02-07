@@ -1,0 +1,49 @@
+.main{
+    height: 50px;
+    width: 900px;
+    position: fixed;
+    display: inline-block;
+    top: 10px  ;
+    left: 0;
+    background-color: #314e52;
+}
+.android{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    size: 40px;
+}
+.btn  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 10px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn :hover{
+    background-color: #30475e;
+}
+.btn2  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 120px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn2 :hover{
+    background-color: #30475e;
+}
