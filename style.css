@@ -28,7 +28,7 @@
 }
 
 .btn :hover{
-    background-color: #30475e;
+    background-color: #13e2e2;
 }
 .btn2  {
     position: fixed;
@@ -45,7 +45,7 @@
 }
 
 .btn2 :hover{
-    background-color: #30475e;
+    background-color:#13e2e2;
 }
 .btn3  {
     position: fixed;
@@ -62,7 +62,7 @@
 }
 
 .btn3 :hover{
-    background-color: #30475e;
+    background-color: #13e2e2;
 }
 .btn4  {
     position: fixed;
@@ -79,7 +79,7 @@
 }
 
 .btn4 :hover{
-    background-color: #30475e;
+    background-color: #13e2e2;
 }
 .btn4  {
     position: fixed;
@@ -96,7 +96,7 @@
 }
 
 .btn4 :hover{
-    background-color: #30475e;
+    background-color: #13e2e2;
 }
 .btn5  {
     position: fixed;
@@ -113,10 +113,10 @@
 }
 
 .btn5 :hover{
-    background-color: #30475e;
+    background-color: #13e2e2;
 }
 h2{
-    color: black;
+    color: #13e2e2;
     position: relative;
     top: 200px;
     text-align: center;
