@@ -1,6 +1,6 @@
 .main{
     height: 50px;
-    width: 900px;
+    width: 560px;
     position: fixed;
     display: inline-block;
     top: 10px  ;
@@ -47,3 +47,122 @@
 .btn2 :hover{
     background-color: #30475e;
 }
+.btn3  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 230px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn3 :hover{
+    background-color: #30475e;
+}
+.btn4  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 340px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn4 :hover{
+    background-color: #30475e;
+}
+.btn4  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 340px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn4 :hover{
+    background-color: #30475e;
+}
+.btn5  {
+    position: fixed;
+    display: inline-block;
+    top: 15px;
+    left: 450px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #f05454;
+    text-decoration: none;
+
+    
+}
+
+.btn5 :hover{
+    background-color: #30475e;
+}
+h2{
+    color: black;
+    position: relative;
+    top: 200px;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    color: black;
+    position: relative;
+    top: 200px;
+    text-align: center;
+
+    font-family: 'Merriweather', serif;
+}
+.txt{
+    position: absolute;
+    display: block;
+margin: 0;
+height: 500px;
+width: 100%;
+background-color: #a4ebf3;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    
+}
+img{
+    position: absolute;
+    margin: 0;
+    height: 40%;
+    right: 45%;
+    top: 300px;
+    
+}
+.myimage{
+    position: absolute;
+    top: 220px;
+    height: 600px;
+    right: 45%;
+    text-align: center;
+}
+
+.content{
+    position: absolute;
+    top: 550px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    
+}
+
